@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
+* B.S. in Biological Science, University of Florence, Florence (Italy), 2010-2013
+* M.S. in Molecular and Celluar Biology, University of Florence, Florence (Italy), 2013-2015
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 
 Work experience
