@@ -18,7 +18,7 @@ Education
 Work experience
 ======
 * 07/2013–09/2013: Trainee
-  * [Laboratorio Di Evoluzione Microbica E Molecolare](https://www.bio.unifi.it/cmpro-v-p-153.html), University of Florence, Florence (Italy)
+  * [Laboratorio Di Evoluzione Microbica E Molecolare](https://www.bio.unifi.it/cmpro-v-p-153.html) University of Florence, Florence (Italy)
   * Duties included: Tagging issues
   * Supervisor: Prof. Renato Fani & Dr. Marco Fondi 
 
