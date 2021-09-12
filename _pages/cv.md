@@ -17,13 +17,17 @@ Education
 
 Work experience
 ======
-* 07/2013–09/2013: Trainee
-  * [Laboratorio Di Evoluzione Microbica E Molecolare](https://www.bio.unifi.it/cmpro-v-p-153.html) University of Florence, Florence (Italy)
+* 07/2013 – 09/2013: **Trainee** [Laboratorio Di Evoluzione Microbica E Molecolare](https://www.bio.unifi.it/cmpro-v-p-153.html) University of Florence, Florence (Italy).
+
+  The focus of my bachelor thesis was to model the microbial metabolism of organisms important for
+bioremediation and experimentally test *in silico* predictions. The final aim was the *in silico* study of
+possible strategies for microbial engineering.
+
   * More specifically the work during my internship included:
     * Constraint-based modeling applied to microbial metabolism (Flux Balance Analysis)
     * Basic microbiological wet lab techniques
     * Microbiology applied to bioremediation
-  * Supervisor: Prof. Renato Fani & Dr. Marco Fondi 
+  * Supervisors: Prof. Renato Fani & Dr. Marco Fondi 
 
 * Fall 2015: Research Assistant
   * Github University
