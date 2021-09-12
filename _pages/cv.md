@@ -13,14 +13,14 @@ Education
 ======
 * B.S. in Biological Science, University of Florence, Florence (Italy), 2010-2013
 * M.S. in Molecular and Celluar Biology, University of Florence, Florence (Italy), 2013-2015
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Biology, University of Luxembourg, Esch sur Alzette (Luxembourg), 2015-2019
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
+* 07/2013–09/2013: Trainee
+  * Laboratorio Di Evoluzione Microbica E Molecolare [https://www.bio.unifi.it/cmpro-v-p-153.html], University of Florence, Florence (Italy)
   * Duties included: Tagging issues
-  * Supervisor: Professor Git
+  * Supervisor: Prof. Renato Fani & Dr. Marco Fondi 
 
 * Fall 2015: Research Assistant
   * Github University
