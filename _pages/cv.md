@@ -73,12 +73,25 @@ helps to elucidate the role played by these environmental factors.
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Languages
+  * Italian: Mother tongue
+  * English: Proficent C1 level, (CAE, Cambridge University ESOL) 
+  * French: Proficient C1 level, (DALF C1, Ministère de l'Éducation nationale français) 
+* Digital skills
+  * Programming (R programming, MATLAB, Pyhton)
+  * Operating systems: Linux (terminal), and Windows
+  * MS Office suite (Word, Excel, Powerpoint, One Note)
+  * Vector graphics editor (Inkscape)
+  * Web browsers
+* Communication skills
+  * Communication skills acquired interfacing colleagues coming from different backgrounds (biology,
+chemistry, computer science, maths, and statistics).
+  * Capability of conveying and explain abstract and complex concepts in simple words
+  * Excellent presentation skills
+  * Social skills gained having interactions with people from different countries and cultures
+* Organisational / managerial skills
+  * Project planning
+  * Independence in leading in scientific projects 
 
 Publications
 ======
@@ -86,18 +99,35 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+Conferences & Presentations
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+* Attendance at the 3rd Conference on Constraint-Based Reconstruction and Analysis
+(COBRA 2015), Heidelberg
+* Poster and oral presentation at the 6th Gut Microbiota for Health World Summit 2017, Paris
+* Poster presentation at the 7th International Human Microbiome Consortium 2018 meeting, Killarney
+* Poster presentation at the 5th Conference on Constraint-Based Reconstruction and Analysis (COBRA 2018), Seattle
+* Oral presentation at the 9th International Human Microbiome Consortium 2021 meeting, Barcelona
   
-Teaching
+Teaching & Mentoring
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Courses
 ======
-* Currently signed in to 43 different slack teams
+* IGS Metagenome Analysis Workshop 2017, Baltimore
+* BioSB Pattern Recognition Course 2017, Amsterdam
+* EMBO Young Investigator Ph.D. Course 2017, Heidelberg
+* Qiime 2 Workshop at ISME 2018, 2018, Leipzig
+
+Memberships
+======
+* Treasurer and board member of RSG [International Society for Computational Biology](https://www.iscb.org/), Luxembourg (2017-2018 Team) 
+* Board member of RSG [International Society for Computational Biology](https://www.iscb.org/), Luxembourg (2018-2019 Team) http://rsg-luxembourg.iscbsc.org/
+
+
+
+
+
+
